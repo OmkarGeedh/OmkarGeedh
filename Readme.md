@@ -5,7 +5,7 @@
 ### About Me
 - 🎓 &nbsp; Completed **BE in Computer Science and Engineering (IoT, Cyber Security incld Blockchain)**
 - 🏫 &nbsp; Completed **Diploma in Computer Engineering from Vidyalankar Polytechnic**
-- 💼 &nbsp; Worked as an **Intern at TIFR, Mumbai**
+- 💼 &nbsp; Worked as an **Intern at Tata Institute of Fundamental Research (TIFR), Mumbai**
 - 📧 &nbsp; omkar.geedh01@gmail.com
 - 🧑‍💻 &nbsp; Visit here: <a href="https://bit.ly/omkargeedh" target="_blank">Portfolio </a> to know more.
 
