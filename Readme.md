@@ -2,6 +2,12 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&random=false&width=435&lines=Hello+World+%F0%9F%91%8B;This+is+Omkar+Geedh;Welcome+to+my+Github+" alt="Typing SVG" /></a>
 </h1>
 
+### About Me
+- 🏫 &nbsp; Completed **BE in Computer Science and Engineering (IoT, Cyber Security incld Blockchain)**
+- 💼 &nbsp; Worked as an **Intern at TIFR, Mumbai**
+- 📧 &nbsp; omkar.geedh01@gmail.com
+- 🧑‍💻 &nbsp; Visit here: https://bit.ly/omkargeedh to know more
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a style="text-decoration: none;" href="https://twitter.com/omkar__geedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranv21" height="30" width="40" /></a>
