@@ -6,7 +6,7 @@
 - 🏫 &nbsp; Completed **BE in Computer Science and Engineering (IoT, Cyber Security incld Blockchain)**
 - 💼 &nbsp; Worked as an **Intern at TIFR, Mumbai**
 - 📧 &nbsp; omkar.geedh01@gmail.com
-- 🧑‍💻 &nbsp; Visit here: <a href="https://bit.ly/omkargeedh" target="blank">Portfolio </a> to know more
+- 🧑‍💻 &nbsp; Visit here: <a href="https://bit.ly/omkargeedh" target="_blank">Portfolio </a> to know more
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
