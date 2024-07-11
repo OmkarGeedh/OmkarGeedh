@@ -8,7 +8,7 @@
 
 
 <br>
-### Leetcode Stats
+### Leetcode Stats <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/OmkarGeedh?theme=dark&font=Average%20Sans&ext=heatmap)
 
 <br>
