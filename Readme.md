@@ -3,10 +3,11 @@
 </h1>
 
 ### About Me
-- 🏫 &nbsp; Completed **BE in Computer Science and Engineering (IoT, Cyber Security incld Blockchain)**
+- 🎓 &nbsp; Completed **BE in Computer Science and Engineering (IoT, Cyber Security incld Blockchain)**
+- 🏫 &nbsp; Completed **Diploma in Computer Engineering from Vidyalankar Polytechnic**
 - 💼 &nbsp; Worked as an **Intern at TIFR, Mumbai**
 - 📧 &nbsp; omkar.geedh01@gmail.com
-- 🧑‍💻 &nbsp; Visit here: <a href="https://bit.ly/omkargeedh" target="_blank">Portfolio </a> to know more
+- 🧑‍💻 <p> &nbsp; Visit here: <a href="https://bit.ly/omkargeedh" target="_blank">Portfolio </a> to know more.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
