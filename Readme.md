@@ -7,12 +7,12 @@
 - 🏫 &nbsp; Completed **Diploma in Computer Engineering from Vidyalankar Polytechnic**
 - 💼 &nbsp; Worked as an **Intern at TIFR, Mumbai**
 - 📧 &nbsp; omkar.geedh01@gmail.com
-- 🧑‍💻 <p> &nbsp; Visit here: <a href="https://bit.ly/omkargeedh" target="_blank">Portfolio </a> to know more.</p>
+- 🧑‍💻 &nbsp; Visit here: <a href="https://bit.ly/omkargeedh" target="_blank">Portfolio </a> to know more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a style="text-decoration: none;" href="https://twitter.com/omkar__geedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranv21" height="30" width="40" /></a>
-<a style="text-decoration: none;" href="https://www.linkedin.com/in/omkar-geedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-geedh" height="30" width="40" /></a>
+<a style="text-decoration: none;" href="https://twitter.com/omkar__geedh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranv21" height="30" width="40" /></a>
+<a style="text-decoration: none;" href="https://www.linkedin.com/in/omkar-geedh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-geedh" height="30" width="40" /></a>
 </p>
 
 ### Github Stats
