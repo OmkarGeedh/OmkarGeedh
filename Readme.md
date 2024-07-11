@@ -4,7 +4,7 @@
 
 
 ### Leetcode Stats 
-[LeetCode Stats] (https://leetcard.jacoblin.cool/OmkarGeedh?theme=dark&font=Average%20Sans&ext=heatmap)
+[LeetCode Stats](https://leetcard.jacoblin.cool/OmkarGeedh?theme=dark&font=Average%20Sans&ext=heatmap)
 
 <br>
 
