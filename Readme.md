@@ -5,7 +5,7 @@
 
 ### Socials 
 <a href="https://www.linkedin.com/in/omkar-geedh" target="_blank"> <img src="https://user-images.githubusercontent.com/74411873/147396963-7f88cda0-f57a-4478-876f-d08536477d20.png" align="left" alt="git" height='40px'/> </a>
-https://www.linkedin.com/in/omkar-geedh/
+
 
 <br>
 ### Leetcode Stats
