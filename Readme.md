@@ -3,11 +3,11 @@
 </h1>
 
 ### About Me
-- 🌱 &nbsp; Currently learning MERN & DevOps
+- 🌱 &nbsp; Currently learning **MERN & DevOps**
 - 🎓 &nbsp; Completed **BE in Computer Science and Engineering (IoT, Cyber Security incld Blockchain)**
 - 🏫 &nbsp; Completed **Diploma in Computer Engineering from Vidyalankar Polytechnic**
 - 💼 &nbsp; Worked as an **Intern at Tata Institute of Fundamental Research (TIFR), Mumbai**
-- 📧 &nbsp; How to reach me omkar.geedh01@gmail.com
+- 📧 &nbsp; How to reach me **omkar.geedh01@gmail.com**
 - 🧑‍💻 &nbsp; Visit here: <a href="https://bit.ly/omkargeedh" target="_blank">Portfolio </a> to know more.
 
 <h3 align="left">Connect with me:</h3>
